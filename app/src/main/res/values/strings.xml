@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ProfileProject</string>
+    <string name="profile_editProfile">Edit Profile</string>
+    <string name="profile_veiwWebsite">Veiw Website</string>
+    <string name="profile_skills">Skills</string>
+    <string name="profile_android">Android Development</string>
+    <string name="profile_cssHtml" translatable="false">Css, Html</string>
+    <string name="profile_deepLearning">Deep Learning</string>
+    <string name="profile_city">Province , city</string>
+    <string name="profile_tehran">Tehran, Tehran</string>
+    <string name="profile_gilan">Gilan, Rasht</string>
+    <string name="profile_shiraz">Shiraz, Shiraz</string>
+    <string name="profile_firstNsmrHint">Enter First Name Here...</string>
+    <string name="profile_lastNsmrHint">Enter Last Name Here...</string>
+    <string name="profile_saveInformation">Save Information</string>
+    <string name="profile_done">Done</string>
+    <string name="profile_isCheckedMessaged" translatable="false">%1$s is checked!</string>
+    <string name="profile_clickSaveInformation" translatable="false">Click Save Information</string>
+
+</resources>

@@ -1,0 +1,43 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="ButtonDefult" parent="AppTheme">
+        <item name="android:textSize">15sp</item>
+    </style>
+    <style name="ButtonDefult.Praimary" parent="ButtonDefult">
+        <item name="android:background">@drawable/shape_button_praimary</item>
+        <item name="android:textColor">@color/all_praimaryButtonTextColor</item>
+    </style>
+    <style name="ButtonDefult.Secondary" parent="ButtonDefult">
+        <item name="android:background">@drawable/shape_button_secondary </item>
+        <item name="android:textColor">@color/all_secondaryButtonTextColor</item>
+    </style>
+    <style name="EditTextDefult" parent="AppTheme">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+    <style name="ButtonDefult.Tablet" parent="AppTheme">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="EditTextDefult.Tablet" parent="AppTheme">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+    <style name="Checkbox.Tablet" parent="AppTheme">
+        <item name="android:textSize">25sp</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+    <style name="Radio.Tablet" parent="AppTheme">
+        <item name="android:textSize">25sp</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+
+</resources>

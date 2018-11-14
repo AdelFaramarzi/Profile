@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ProfileProject</string>
+    <string name="profile_editProfile">ویرایش پروفایل</string>
+    <string name="profile_skills">مهارتها</string>
+    <string name="profile_veiwWebsite">نمایش وب سایت</string>
+    <string name="profile_android">برنامه نویس اندروید</string>
+    <string name="profile_deepLearning">مهارت یادگیری</string>
+    <string name="profile_city">استان، شهر</string>
+    <string name="profile_tehran">، تهران</string>
+    <string name="profile_gilan">گیلان، رشت</string>
+    <string name="profile_shiraz">شیراز ، شیراز</string>
+    <string name="profile_firstNsmrHint">نام را وارد کنید...</string>
+    <string name="profile_lastNsmrHint">نام خانوادگی خود را وارد کنید...</string>
+    <string name="profile_saveInformation">ثبت اطلاعات</string>
+    <string name="profile_done">ثبت!</string>
+</resources>
